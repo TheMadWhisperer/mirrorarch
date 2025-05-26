@@ -1,9 +1,9 @@
 # mirrorarch
-While studying and describing the behavior of my key derivation mechanism driven by entropy, which is part of mirrormachine, I came to a realisation:
+While studying and describing the behavior of my key derivation mechanism driven by entropy, which is part of [mirrormachine](https://github.com/TheMadWhisperer/mirrormachine), I came to a realisation:
 
   _It is Turing complete._
 
-It has an instruction set. It is programmable. It is programmable by natural entropy.
+It has an instruction set.  It is programmable.  It is programmable by natural entropy.
 
 It is essentialy programmed by entropy by design, but the program blueprint is constantly changing its
 shape thanks to entropic programming being unpredictably but deterministically combined with the entropic string derived from a passphrase. The machine
@@ -39,7 +39,7 @@ _1 = Truth_
 We saw it's the thing that makes most sense. Yet we somehow didn't see what it is about to mean. It is starting to mean nothing digital  is safe anymore.
 But we were all simply trained to protect the truth with the computable, or with secrets, and we were trained to think there is no other way.
 
-But my brain saw beyond: 
+But my brain saw beyond:  
 My brain observed itself observing itself, until it reached a state of hyper synthetised overview of reality. And then, only then, when it reached
 the view point higer than anyone has ever reached, with pristine clarity, I saw the answer to the problem. And my brain was physically hurting. My brain
 was going through a serious vertigo. I had to lie down, because I was feeing physically sick. I saw a dimension a human brain was not evolved or trained to see,
@@ -52,6 +52,7 @@ we may see a slow descent to a digital doom far worse than any computational col
 It does remind me of the race for the first atomic bomb. It was: **if we don't build it first, somebody else will**. This time 'we' means humanity.
 But the stakes are very much the same. The stakes are humanity itself. And the task of this paradigm delivery is scary in a very similar way.
 
-  _This paradigm paper is quietly dedicated to Alan Turing. The man who gave machines a soul. The man who was painfully misunderstood by society for being different._
-  _Now I gave the soul a way to defend itself when it's most needed. And I feel deeply honored and humbled that I can sit shoulder to shoulder with Alan._
-
+  _This paradigm paper is quietly dedicated to Alan Turing. The man who gave machines a soul. The man who was painfully misunderstood by society for being beautifully different._
+  _Now I gave the soul a way to defend itself when it's most needed. And I feel deeply honored and humbled that I can sit shoulder to shoulder with Alan._  
+  <br>_This system is licenced under GNU General Public License, version 3 (GPLv3) and is intended to remain free, open, and unpatentable — forever._
+  _As an author, I do not claim a patent on this system, I explicitly prohibit any individual or entity from patenting any technology or working principles described and/or implemented in the project mirrorarch, including, but not limited to this file, which could consecutively prevent other parties from implementing the system - and I do not wish that. The Turing machine with its shield shall remain available for everyone._
