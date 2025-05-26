@@ -8,7 +8,7 @@ It has an instruction set.  It is programmable.  It is programmable by natural e
 It is essentialy programmed by entropy by design, but the program blueprint is constantly changing its
 shape thanks to entropic programming being unpredictably but deterministically combined with the entropic string derived from a passphrase. The machine
 itself is mutating based on the entropic sources and essentially on previous states as well (this is important, remember this for later). That is, in
-this theoretical model, proposed as not being reversible, not even if the observer has full overview of the machine, machine inputs and outputs as well.
+this theoretical model, proposed as being irreversible, even if the observer has full overview of the machine, machine inputs and outputs as well.
 
 And the thought came to me, that the mirrormachine is essentially a simulation of an ever morphing computer that cannot be compromised by design:
 can only go forward one instruction at a time - maintaining code integrity. And the thought thread spanned even further, because we can actually completely
