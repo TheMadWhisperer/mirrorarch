@@ -1,9 +1,12 @@
 # mirrorarch
-While studying and describing the behavior of my fully Turing complete key derivation mechanismd riven by entropy, which is part of mirrormachine, I came to a realisation:
+
+  _This paradigm paper is with deep respect dedicated to Alan Turing._
+
+While studying and describing the behavior of my key derivation mechanism driven by entropy, which is part of mirrormachine, I came to a realisation:
 
   _It is Turing complete._
 
-It has instruction set. It is programmable. It is programmable by natural entropy.
+It has an instruction set. It is programmable. It is programmable by natural entropy.
 
 It is essentialy programmed by entropy by design, but the program blueprint is constantly changing its
 shape thanks to entropic programming being unpredictably but deterministically combined with the entropic string derived from a passphrase. The machine
