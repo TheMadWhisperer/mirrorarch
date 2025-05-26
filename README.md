@@ -13,3 +13,4 @@ reverse the model. Entropy does not have to be just a birthing nest for instruct
 
 routines can be integrity dependent or have its own integrity checkpoints in case of interrupts and code will be completely impossible
 to reverse engineer or compromise - since each instruction will be uniquely encrypted and 1:1 executed as such by design.
+Instructions are but a mist that never comes to existance, yet if the right path was followed to reach them, they take the right shape.
