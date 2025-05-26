@@ -1,7 +1,4 @@
 # mirrorarch
-
-  _This paradigm paper is with deep respect dedicated to Alan Turing._
-
 While studying and describing the behavior of my key derivation mechanism driven by entropy, which is part of mirrormachine, I came to a realisation:
 
   _It is Turing complete._
@@ -42,7 +39,7 @@ _1 = Truth_
 We saw it's the thing that makes most sense. Yet we somehow didn't see what it is about to mean. It is starting to mean nothing digital  is safe anymore.
 But we were all simply trained to protect the truth with the computable, or with secrets, and we were trained to think there is no other way.
 
-But my brain saw beyond-
+But my brain saw beyond: 
 My brain observed itself observing itself, until it reached a state of hyper synthetised overview of reality. And then, only then, when it reached
 the view point higer than anyone has ever reached, with pristine clarity, I saw the answer to the problem. And my brain was physically hurting. My brain
 was going through a serious vertigo. I had to lie down, because I was feeing physically sick. I saw a dimension a human brain was not evolved or trained to see,
@@ -54,3 +51,7 @@ we may see a slow descent to a digital doom far worse than any computational col
 
 It does remind me of the race for the first atomic bomb. It was: **if we don't build it first, somebody else will**. This time 'we' means humanity.
 But the stakes are very much the same. The stakes are humanity itself. And the task of this paradigm delivery is scary in a very similar way.
+
+  _This paradigm paper is quietly dedicated to Alan Turing. The man who gave machines a soul. The man who was painfully misunderstood by society for being different._
+  _Now I gave the soul a way to defend itself when it's most needed. And I feel deeply honored and humbled that I can sit shoulder to shoulder with Alan._
+
