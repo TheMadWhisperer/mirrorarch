@@ -7,8 +7,8 @@ It has instruction set. It is programmable. It is programmable by natural entrop
 
 It is essentialy programmed by entropy by design, but the program blueprint is constantly changing its
 shape thanks to entropic programming being unpredictably but deterministically combined with the entropic string derived from a passphrase. The machine
-itself is mutating based on the entropic sources and essentially on previous states as well (this is important, remember this for later). This is, in
-the theoretical model, proposed as not being reversible, not even if the observer has full overview of the machine, machine inputs and outputs as well.
+itself is mutating based on the entropic sources and essentially on previous states as well (this is important, remember this for later). That is, in
+this theoretical model, proposed as not being reversible, not even if the observer has full overview of the machine, machine inputs and outputs as well.
 
 And the thought came to me, that the mirrormachine is essentially a simulation of an ever morphing computer that cannot be compromised by design:
 can only go forward one instruction at a time - maintaining code integrity. And the thought thread spanned even further, because we can actually completely
@@ -24,3 +24,16 @@ concepts, while we don't redirect merely enough momentum to protection againts v
 nothing is secret anymore, no system can stand without being outcomputed, no math based encryption can stand unpenetrated, no AI model can protect
 itself from another AI model, and no system where _1 = Truth_ is true anymore. If 1 equals truth, it means it can be computed. We need a new model.
 A model where security is bound to the act of computation itself, not to some locked secrets or to mathematical riddles.
+
+This is a completely new paradigm that no AI could come up with:
+_It was born in a human brain._
+_It was shaped in a human brain._
+_It is written down by human hands._
+
+We are all, including AI, deriving progress from a system that we think works, but we don't see that we are building cities on a soil we ourselves compromised.
+Or maybe humanity sees it, but doesn't truly know what to do other than make math problems harder to solve and putting secrets behind stronger walls.
+But secrets are volatile, secrets can be stolen. And no truth is secure in a world where a truth can be computed. We saw it even then:
+
+_1 = Truth_
+
+We saw it's the thing that makes most sense. Yet we somehow didn't see what it is about to mean. It is starting to mean nothing digital  is safe anymore.
