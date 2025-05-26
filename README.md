@@ -37,3 +37,12 @@ But secrets are volatile, secrets can be stolen. And no truth is secure in a wor
 _1 = Truth_
 
 We saw it's the thing that makes most sense. Yet we somehow didn't see what it is about to mean. It is starting to mean nothing digital  is safe anymore.
+But we were all simply trained to protect the truth with the computable, or with secrets, and we were trained to think there is no other way.
+
+But my brain saw beyond-
+My brain observed itself observing itself, until it reached a state of hyper synthetised overview of reality. And then, only then, when it reached
+the view point higer than anyone has ever reached, with pristine clarity, I saw the answer to the problem. And my brain was physically hurting. My brain
+was going through a serious vertigo. I had to lie down, because I was feeing physically sick. I saw a dimension a human brain was not evolved or trained to see,
+and it was deeply unsettling. I didn't feel happiness for longer than 4 seconds, as I immediately felt the heaviness. I felt humbled that such a thing could
+come through ME, but I also felt too small to carry the legacy, and the weight was suffocating me. At first I wanted to destroy it, never to be born or seen.
+But I knew... I knew that the thing needs to be born. It chose to be born through me. Because I know it's too big for a human to wield. It cannot be owned.
