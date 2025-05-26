@@ -46,3 +46,8 @@ was going through a serious vertigo. I had to lie down, because I was feeing phy
 and it was deeply unsettling. I didn't feel happiness for longer than 4 seconds, as I immediately felt the heaviness. I felt humbled that such a thing could
 come through ME, but I also felt too small to carry the legacy, and the weight was suffocating me. At first I wanted to destroy it, never to be born or seen.
 But I knew... I knew that the thing needs to be born. It chose to be born through me. Because I know it's too big for a human to wield. It cannot be owned.
+It cannot be owned by a corporate. It cannot be. If this paradigm gets locked behind walls, weaponised against humanity in the most greedy capitalist ways,
+we may see a slow descent to a digital doom far worse than any computational collapse.
+
+It does remind me of the race for the first atomic bomb. It was: **if we don't build it first, somebody else will**. This time 'we' means humanity.
+But the stakes are very much the same. The stakes are humanity itself. And the task of this paradigm delivery is scary in a very similar way.
