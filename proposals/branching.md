@@ -30,4 +30,5 @@ right? How do you marry their integrity back to the one? Tunelling. You use tune
 sees what he's working with. Tunneling, not meaning exactly what you know from p2p or secure connections, but very close to it:
 gives us the possibility to marry two or multiple integrity threads by computing the difference between the true final integrity
 and an alternative integrity, for each existing alternative integrity. Basically a set of zombie instructions that do not do anything else
-other than marry the mutation states back to one for each single integrity branch, before the chip is ready to do actual computing again.
+other than marry the mutation states back to one for each single integrity branch. But the nice thing is, that the chip will only have
+to wake from the alternative integrity it was actually executing - when it's done, it will be ready to do actual computing again.
