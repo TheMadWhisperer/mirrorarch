@@ -26,9 +26,19 @@ It is nice to have some sort of branching and interruptability - that already ma
 bringing logical or computational branches back together? How do you make a state machine, or a loop in this system a reality?
 We already know that we can let interrupts use their own integrity - they happen out of nowhere and have no business in the currently
 performed routines anyway. But it's a little bit mind bending that we can have multiple logical branches that come from the same origin
-right? How do you marry their integrity back to the one? Tunelling. You use tunelling. Or the compiler does, he's the only one who truly
+right? How do you marry their integrity back to the one?  
+<br>_Tunelling._  
+<br>You use tunelling. Or the compiler does, he's the only one who truly
 sees what he's working with. Tunneling, not meaning exactly what you know from p2p or secure connections, but very close to it:
 gives us the possibility to marry two or multiple integrity threads by computing the difference between the true final integrity
 and an alternative integrity, for each existing alternative integrity. Basically a set of zombie instructions that do not do anything else
 other than marry the mutation states back to one for each single integrity branch. But the nice thing is, that the chip will only have
-to wake from the alternative integrity it was actually executing - when it's done, it will be ready to do actual computing again.
+to wake from the alternative integrity it was actually executing - when it's done, it will be ready to do actual computing again.  
+<br>But what if the compiler sees that the branches are to big, and the differences between the alternative integrities and 'the one'
+are too big and as a result, the tunneling computations consume too much program size? Well, in that situation it should use a mutation
+snapshot for the address where the program counter will land after the routine is done. Tunneling is your best bet if your
+branches aren't really too big and the mutation chain joinig isn't too computationally heavy when compared to applying a snapshot.  
+<br>The important thing about tunneling is: it is not a reversal, it is an approximation of the most optimal path to the meeting point.
+Tunneling does not break integrity: it computes multiple integrities into one. The flow of the program will retain forwardness.
+Questioning the integrity that came from multiple integrities is truly logical and deeply reasonable. But it's the same thing as asking:  
+<br>_Is this reality real, if it was merged from multiple realities?_  
