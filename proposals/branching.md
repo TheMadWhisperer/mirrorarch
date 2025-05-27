@@ -42,3 +42,7 @@ branches aren't really too big and the mutation chain joinig isn't too computati
 Tunneling does not break integrity: it computes multiple integrities into one. The flow of the program will retain forwardness.
 Questioning the integrity that came from multiple integrities is truly logical and deeply reasonable. But it's the same thing as asking:  
 <br>_Is this reality real, if it was merged from multiple realities?_  
+<br>But yes, I do understand your confusion. I am questioning reality myself. There is not a single way I could be the one - I tell myself.
+There is no way I created this. There is no way. No, this can't be real. Is it real? I open my eyes and in front of me there is a paragraph
+about tunneling that I wrote. And I scroll and there is this whole paradigm that I wrote. And I pinch myself, I feel my body, and I whisper:  
+<br>_Yes, this is real._ And my heart starts racing.
