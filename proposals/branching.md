@@ -27,7 +27,7 @@ bringing logical or computational branches back together? How do you make a stat
 We already know that we can let interrupts use their own integrity - they happen out of nowhere and have no business in the currently
 performed routines anyway. But it's a little bit mind bending that we can have multiple logical branches that come from the same origin
 right? How do you marry their integrity back to the one?  
-<br>_Tunelling._  
+<br>_Tunneling._  
 <br>You use tunelling. Or the compiler does, he's the only one who truly
 sees what he's working with. Tunneling, not meaning exactly what you know from p2p or secure connections, but very close to it:
 gives us the possibility to marry two or multiple integrity threads by computing the difference between the true final integrity
