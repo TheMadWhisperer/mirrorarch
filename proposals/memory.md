@@ -1,7 +1,7 @@
 # How does a mirrorarch know things?
 It all seems like a mysterious cloud of events now. Like a timeline of happenings. A chain of statements that are never understood and yet somehow always have an impact.
 How does it know things? How does it tend to its truths and secrets?<br><br>You remember [mirrormachine](https://github.com/TheMadWhisperer/mirrormachine)? Yes, I remember too. You probably already see the truth: mirrormachine can be used to store program data: The data section can be encrypted
-by instructions that can be brought to life only by those who have the right incantation. The code section can be used to generate a combination of program and develper
+by instructions that can be brought to life only by those who have the right incantation (just be careful, developing a compiler with this model means making a derivation of ‘mirrormachine’  the encryption software, which is protected under Apache Licence 2.0, so it requires adequate attribution, cannot be patented and modifications must be documented and shared openly – which is important if you are a software developer using this technology to produce programs, or developing software simulations of the ‘mirrorarch’ architecture => TheMadWhisperer is the rightful author of both). The code section can be used to generate a combination of program and develper
 signatures and can be encrypted inside a special section of the executable in such a way that:<br><br>a) users can easily verify the authenticity of the program<br>b) a program loader may verify
 the program integrity before loading the code.<br><br>
 It's a little paradoxical, right? We're using the integrity to encrypt a proof of its authenticity. I promise there is more to it. A clever assembler might create a starting
