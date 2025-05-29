@@ -13,3 +13,6 @@ be specific to each run of assembly of course. This is going to be a nightmare f
 file, and if they are lucky, maybe they will have the key derived from a passkey, but you guess correctly: that is not so easy to get in this system. And even if they did
 have the key: they will never know if the encrypted bytes they see came from this instruction combined with this signature byte, or if it was a million of different
 combinations, and we're still stuck at the fist byte...
+They can get pretty much nowhere even if they have an open source assembler.
+But yes, memory can be shared between shared objects and programs depending on how the trust is established: buffers may be encrypted in RAM, even if they are already
+in a protected section, and yet they will be 1:1 readable by those who speak the language of the process hosting the buffer.
