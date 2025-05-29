@@ -11,8 +11,8 @@ be specific to each run of assembly of course. This is going to be a nightmare f
 file, and if they are lucky, maybe they will have the key derived from a passkey, but you guess correctly: that is not so easy to get in this system.<br><br>And even if they did
 have the key: they will never know if a concrete encrypted byte came from a concrete instruction and signature byte or if it was a different combination, and we're still
 considering the fist byte... They can get nowhere even if they have an open source assembler.<br><br>
-But yes, memory can be shared between shared objects and programs depending on how the trust is established: buffers may be encrypted in RAM, even if they are already
-in a protected section, and yet they will be 1:1 understandable only by those who speak the language of the process hosting the buffer. RAM could theoretically be accessed
+But yes, memory can be shared between shared objects and programs depending on how the trust is established: buffers may be encrypted in some protected section of RAM, and even if they are already
+accessed in a protected section, they will be 1:1 understandable only by those who speak the language of the process hosting the buffer. RAM could theoretically be accessed
 as "just another memory page", and each RAM page could be encrypted in the same way as the program data, but this comes with a challenge: malicious users may try to flood
 RAM by forcing the program to allocate more memory and they may try to find patterns, which opens an attack vector that does not exist without this way of RAM paging.<br><br>BUT:
 There is a way how to hide patterns even in repetitive data (and please keep in mind this specific technique is just an idealistic draft and not something you must adhere to when
